@@ -30,6 +30,7 @@ WE can check by using the ‘mn -c’ command
 ```
 sudo python3 -m pip install numpy
 sudo python3 -m pip install pandas
+sudo python3 -m pip install PySimpleGUI==4.59.0
 sudo python -m pip install scikit-learn
 sudo python -m pip install substring
 sudo python -m pip install pynput
