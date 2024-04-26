@@ -20,8 +20,9 @@ def packet_forwarding():
             # print(f"F_Server ---> {data}, {len(data)}") # TODO
             if not data:
                 break
-            # send_addr = (target_ip, listen_port + 1)
-            # sock_out.sendto(data, send_addr)
+            
+            #####TODO Please write you ML code here - Recievce data decode get ML outrput encode forward
+        
             sock_out.sendall(data) # TODO for sent all
             print(f"F-Server <--- {data}, {len(data)}")  # TODO
         except KeyboardInterrupt:
