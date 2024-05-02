@@ -1,11 +1,11 @@
-# IOT_EXP1: This a repo of mininet based on the IOT experiment 
+# IoT_EXP1: This a repo of mininet based on the IoT experiment 
 
 ### How to Setup Experiment Environment 
 Installation steps:
 1. Install git
 ``` Sudo apt-get install git ```
 2. Clone repo from GitHub
-``` Git clone https://github.com/zubair1811/IntelligentTactileEdge2022.git ```
+``` Git clone https://github.com/zubair1811/exp1_iot.git ```
 3. Check that python3.8 and pip3 are installed in the Ubuntu Linux or not if not then follow as
 ```
 sudo apt-get update
