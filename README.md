@@ -39,3 +39,5 @@ sudo python -m pip install tensorflow: Note the actual simulation was done with 
 ```	
 6. To run the simulation follow the below command 
 ``` sudo python3 Network_Topo.py ```
+7. For ML model we used Pytorch, please install these packages as well
+   `install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 -c pytorch`
